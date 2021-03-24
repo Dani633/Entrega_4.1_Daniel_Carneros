@@ -1,0 +1,15 @@
+C:\Users\Dani\Desktop\Dani\UNI\SO\Proyecto\Proyecto_SO\Proyecto_SO\bin\Debug\netcoreapp3.1\Proyecto_SO.exe
+C:\Users\Dani\Desktop\Dani\UNI\SO\Proyecto\Proyecto_SO\Proyecto_SO\bin\Debug\netcoreapp3.1\Proyecto_SO.deps.json
+C:\Users\Dani\Desktop\Dani\UNI\SO\Proyecto\Proyecto_SO\Proyecto_SO\bin\Debug\netcoreapp3.1\Proyecto_SO.runtimeconfig.json
+C:\Users\Dani\Desktop\Dani\UNI\SO\Proyecto\Proyecto_SO\Proyecto_SO\bin\Debug\netcoreapp3.1\Proyecto_SO.runtimeconfig.dev.json
+C:\Users\Dani\Desktop\Dani\UNI\SO\Proyecto\Proyecto_SO\Proyecto_SO\bin\Debug\netcoreapp3.1\Proyecto_SO.dll
+C:\Users\Dani\Desktop\Dani\UNI\SO\Proyecto\Proyecto_SO\Proyecto_SO\bin\Debug\netcoreapp3.1\Proyecto_SO.pdb
+C:\Users\Dani\Desktop\Dani\UNI\SO\Proyecto\Proyecto_SO\Proyecto_SO\obj\Debug\netcoreapp3.1\Proyecto_SO.csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\Dani\UNI\SO\Proyecto\Proyecto_SO\Proyecto_SO\obj\Debug\netcoreapp3.1\Proyecto_SO.Form1.resources
+C:\Users\Dani\Desktop\Dani\UNI\SO\Proyecto\Proyecto_SO\Proyecto_SO\obj\Debug\netcoreapp3.1\Proyecto_SO.csproj.GenerateResource.cache
+C:\Users\Dani\Desktop\Dani\UNI\SO\Proyecto\Proyecto_SO\Proyecto_SO\obj\Debug\netcoreapp3.1\Proyecto_SO.AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\Dani\UNI\SO\Proyecto\Proyecto_SO\Proyecto_SO\obj\Debug\netcoreapp3.1\Proyecto_SO.AssemblyInfo.cs
+C:\Users\Dani\Desktop\Dani\UNI\SO\Proyecto\Proyecto_SO\Proyecto_SO\obj\Debug\netcoreapp3.1\Proyecto_SO.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\Dani\UNI\SO\Proyecto\Proyecto_SO\Proyecto_SO\obj\Debug\netcoreapp3.1\Proyecto_SO.dll
+C:\Users\Dani\Desktop\Dani\UNI\SO\Proyecto\Proyecto_SO\Proyecto_SO\obj\Debug\netcoreapp3.1\Proyecto_SO.pdb
+C:\Users\Dani\Desktop\Dani\UNI\SO\Proyecto\Proyecto_SO\Proyecto_SO\obj\Debug\netcoreapp3.1\Proyecto_SO.genruntimeconfig.cache
